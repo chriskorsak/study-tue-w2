@@ -1,4 +1,17 @@
+
 h1 {
-  background-color: rgb(245, 245, 245);
+  background-color: rgb(235, 235, 235);
   color: rgb(255, 0, 0);
+  padding: 1%;
+}
+
+main {
+  margin: 0 auto;
+  width: 75%;
+  background-color: rgb(255, 255, 255);
+  padding: 2%;
+}
+
+body {
+  background-color: skyblue;
 }
